@@ -5,8 +5,8 @@ Stopwatch | Track it to crack it
 Whether to track your study or book reading sessions, fitness tracking, practice for a presentation, or else, a stop watch can be incredibly handy.
 
 ## ✨ Starting ideas:
-1 - Let you represent the key 'S' to Start / Stop a timer that starts from 00:00:00
-2 - Let pressing the [SPACEBAR] Pause / Resume it.
+- Let you represent the key 'S' to Start / Stop a timer that starts from 00:00:00
+- Let pressing the [SPACEBAR] Pause / Resume it.
 
 ## 💡 Where to start? (Ideas)
 - Click **[here](https://github.com/WeeklyCoder/Week9/blob/main/WeeklyCoder_Week9.pde)** to get this week's starting code.
