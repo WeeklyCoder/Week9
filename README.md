@@ -4,12 +4,18 @@ Stopwatch | Track it to crack it
 ## 📃 Description:
 Whether to track your study or book reading sessions, fitness tracking, practice for a presentation, or else, a stop watch can be incredibly handy.
 
-## ✨ Starting ideas:
+## ✨ What to do:
 - Let you represent the key 'S' to Start / Stop a timer that starts from 00:00:00
 - Let pressing the [SPACEBAR] Pause / Resume it.
 
 ## 💡 Where to start? (Ideas)
 - Click **[here](https://github.com/WeeklyCoder/Week9/blob/main/WeeklyCoder_Week9.pde)** to get this week's starting code.
+
+## 🥨 Twists
+- Convert the keys to clickable buttons.
+- Introduce a lap timer.
+- Save the elapsed time and split (lap) times.
+- How about multiple stop watches to track multiple things?
 
 ## Recommended learning:
 ```
